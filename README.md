@@ -1,4 +1,4 @@
-# sqlalchemmy-challenge
+# sqlalchemy-challenge
 
 # SQLAlchemy Homework - Surfs Up!
 
